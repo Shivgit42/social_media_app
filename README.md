@@ -51,6 +51,7 @@ Make sure you have the following installed on your machine:
 Cloning the Repository
 
 ```
+https://github.com/Shivgit42/social_media_app.git
 cd social_media_app
 ```
 
